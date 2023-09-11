@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Minji's%20GitHub&fontSize=70&animation=twinkling" />
 
-<!--
-**chosim-dvlpr/chosim-dvlpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :four_leaf_clover: 초심 잃지 않기
+ 
+<br/>
+<br/>
+
+![Mindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosim-dvlpr&show_icons=true&theme=bear)
