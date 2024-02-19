@@ -1,9 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Minji's%20GitHub&fontSize=70&animation=twinkling" />
+**Skills**
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&amp;logo=Typescript&amp;logoColor=black"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=Next.js&amp;logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white">
 
 
-<img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"><img src="https://img.shields.io/badge/typescript-181717?style=for-the-badge&logo=typescript&logoColor=#3178C6"><img src="https://img.shields.io/badge/react-181717?style=for-the-badge&logo=react&logoColor=#61DAFB"><img src="https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=#3776AB"><img src="https://img.shields.io/badge/django-181717?style=for-the-badge&logo=django&logoColor=#092E20">
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=#FC6D26">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitLab&logoColor=#FC6D26">
 
 <br/>
 <br/>
