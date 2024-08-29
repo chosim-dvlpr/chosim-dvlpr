@@ -1,17 +1,55 @@
-**Skills**
+안녕하세요!👋🏻<br/><br/>
+**꼼꼼하고 세심한 성격**을 바탕으로 **사용자 친화적 디자인**에 가치를 두는 <br/>
+**Frontend Developer 변민지**입니다.<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&amp;logo=Typescript&amp;logoColor=black"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=Next.js&amp;logoColor=white">
+### Contact
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white">
+📩 email : cho.sim.dvlpr@gmail.com<br/>
+✏️ blog : https://cho-sim-developer.tistory.com<br/>
+<br/><br/>
 
+### Skills
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitLab&logoColor=#FC6D26">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<br/><br/>
+
+### Educations
+
+**🚀 우아한테크코스 6기**
+<br/>
+- 교육 기간 : 2024.02 ~ (진행 중)<br/><br/>
+- 프로젝트 : [Devel Up](https://github.com/woowacourse-teams/2024-devel-up/tree/main)
+  - 기간 : 2024.07.02 ~ (진행 중)
+  - 개발자 취준생들이 상호 성장 할 수 있는 웹 커뮤니티입니다.
 
 <br/>
+
+**🐳 삼성 청년 SW 아카데미 9기**
+<br/>
+- 교육 기간 : 2023.01 ~ 2023.12 (12개월)<br/><br/>
+
+1. 프로젝트 : [꿈틀](https://github.com/chosim-dvlpr/GGUMTL)
+- 기간 : 2023.08 ~ 2023.10 (6주)
+- '꿈'이라는 단어에 담긴 ‘자면서 꾸는 꿈'과 '목표와 이상’을 뜻하는 꿈, 이 두 가지 의미를 연결하는 Web-App 서비스입니다.
 <br/>
 
- :four_leaf_clover: 초심 잃지 않기
+2. 프로젝트 : [TING](https://github.com/chosim-dvlpr/TING)
+- 기간 : 2023.07 ~ 2023.08 (6주)
+- 랜덤 사용자와 1:1 화상 소개팅을 매칭하는 웹 서비스입니다.
+<br/>
+
+3. 프로젝트 : [GreenStep](https://github.com/chosim-dvlpr/GreenStep)
+- 기간 : 2023.10 ~ 2023.11 (6주)
+- 플로깅을 통해 환경 보호 활동을 지원하고, AI 카메라를 통해 기록되는 쓰레기 데이터를 분류하여 공공데이터 창출에 기여하는 어플리케이션입니다.
+
+
  
 <br/>
 <br/>
