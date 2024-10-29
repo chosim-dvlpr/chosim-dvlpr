@@ -1,12 +1,13 @@
-안녕하세요!👋🏻<br/><br/>
-**꼼꼼하고 세심한 성격**을 바탕으로 **사용자 친화적 디자인**에 가치를 두는 <br/>
-**Frontend Developer 변민지**입니다.<br/>
+Hello! 👋🏻<br/>
+
+I'm Minji Byun, <br/>
+a Frontend Developer who values **user-friendly design**, driven by **a meticulous and detail-oriented approach**.<br/>
 <br/><br/>
 
 ### Contact
 
-📩 email : cho.sim.dvlpr@gmail.com<br/>
-✏️ blog : https://cho-sim-developer.tistory.com<br/>
+📩 _Email_ : cho.sim.dvlpr@gmail.com<br/>
+✏️ _Blog_ : https://cho-sim-developer.tistory.com (in Korean)<br/>
 <br/><br/>
 
 ### Skills
@@ -30,37 +31,30 @@
 
 ### Educations
 
-**🚀 우아한테크코스 6기**
+**🚀 Woowacourse 6th**, _Woowa bros_
 <br/>
-- 교육 기간 : 2024.02 ~ (진행 중)<br/><br/>
-- 프로젝트 : [Devel Up](https://github.com/woowacourse-teams/2024-devel-up/tree/main)
-  - 개발자 취준생들이 상호 성장 할 수 있는 웹 커뮤니티입니다.
-  - 기간 : 2024.07.02 ~ (진행 중)
-  - 주요 기술 : React, Typescript, Webpack, React Query (Tanstack Query)
-
-<br/>
-
-**🐳 삼성 청년 SW 아카데미 9기**
-<br/>
-- 교육 기간 : 2023.01 ~ 2023.12 (12개월)<br/><br/>
-
-1. 프로젝트 : [꿈틀](https://github.com/chosim-dvlpr/GGUMTL)
-- '꿈'이라는 단어에 담긴 ‘자면서 꾸는 꿈'과 '목표와 이상’을 뜻하는 꿈, 이 두 가지 의미를 연결하는 Web-App 서비스입니다.
-- 기간 : 2023.08 ~ 2023.10 (6주)
-- 주요 기술 : React, Typescript, Styled-components
-<br/>
-
-2. 프로젝트 : [TING](https://github.com/chosim-dvlpr/TING)
-- 랜덤 사용자와 1:1 화상 소개팅을 매칭하는 웹 서비스입니다.
-- 기간 : 2023.07 ~ 2023.08 (6주)
-- 주요 기술 : React, Javascript, Sock.js
+- **Training Period** : 2024.02 - 2024.11<br/><br/>
+- **Project** : [Devel Up](https://github.com/woowacourse-teams/2024-devel-up/tree/main)
+  - A community-driven web service tailored for aspiring developers, enabling them to complete coding missions and engage in peer code reviews.
+  - **Duration** : 2024.07.02 - Present
+  - **Tech Stack** : React, TypeScript, Tanstack Query, Webpack, Styled-components, Jest, MSW, AWS Codepipeline, S3, CDN, Github Actions
 
 <br/>
 
-3. 프로젝트 : [GreenStep](https://github.com/chosim-dvlpr/GreenStep)
-- 플로깅을 통해 환경 보호 활동을 지원하고, AI 카메라를 통해 기록되는 쓰레기 데이터를 분류하여 공공데이터 창출에 기여하는 어플리케이션입니다.
-- 기간 : 2023.10 ~ 2023.11 (6주)
-- 주요 기술 : React-Native, Typescript
+**🐳 Samsung Software Academy for Youth (SSAFY) 9th**, _SAMSUNG_
+<br/>
+- **Training Period** : 2023.01 - 2023.12 (12 months)<br/><br/>
+
+1. **Project** : [GGUMTL](https://github.com/chosim-dvlpr/GGUMTL)
+- A Web-App service that connects the two meanings embedded in the word "dream": both "the dreams we have while sleeping" and "dreams as goals and aspirations."
+- **Duration** : 2023.08 - 2023.10 (6 weeks)
+- **Tech Stack** : React, TypeScript, Styled-components, PWA, Redux toolkit, WebkitSpeechRecognition, Python, BeautifulSoup, Selenium
+<br/>
+
+2. **Project** : [TING](https://github.com/chosim-dvlpr/TING)
+- A web service that uses WebRTC and WebSockets to match users for random 1:1 video speed dating sessions.
+- **Duration** : 2023.07 - 2023.08 (6 weeks)
+- **Tech Stack** : React, JavaScript, Redux toolkit, Sock.js
 
  
 <br/>
