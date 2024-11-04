@@ -41,6 +41,7 @@ a Frontend Developer who values **user-friendly design**, driven by **a meticulo
 
 ### **🚀 우아한테크코스 6기**
 - 우아한형제들 주관
+- [아카이브 바로가기](https://github.com/chosim-dvlpr/Woowacourse-Archive)
 
 - 교육 기간 : 2024.02 - 2024.11 (10개월)
 - 프로젝트 : [Devel Up](https://github.com/woowacourse-teams/2024-devel-up/tree/main)
