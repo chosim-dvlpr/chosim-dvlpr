@@ -1,6 +1,7 @@
 안녕하세요!👋🏻<br/>
 
-**작은 디테일** 하나에도 진심을 담는 변민지입니다.<br/><br/>
+세심한 시선으로 사용자 경험을 최우선시하며,<br/>
+업무 자동화 구축을 통해 효율성을 높이는 것에 관심이 많은 프론트엔드 개발자입니다.<br/><br/>
 
 
 
@@ -26,7 +27,7 @@
 
 | Company | Position | Period |
 |--|--|--|
-| [Daangn](https://www.daangn.com/kr/) | Intern | 2025.02 - Present |
+| [Karrot](https://www.daangn.com/kr/) | Intern | 2025.02 - Present |
 | STgen Bio | Quality Control Analyst | 2021.09 - 2022.09 |
 
 
@@ -45,7 +46,7 @@
 
 | Project | Period | Archive |
 |--|-----|---|
-| [Merry Treesmas](https://merrytreesmas.site/) | 2024.11 - Present | [Repository](https://github.com/christmas-tree-map/christmas-tree-map) |
+| [Merry Treesmas](https://merrytreesmas.site/) | 2024.11 - 2025.01 (3 months) | [Repository](https://github.com/christmas-tree-map/christmas-tree-map) |
 | [DEVEL UP](https://www.devel-up.co.kr/) | 2024.07 - 2024.11 (5 months) | [Repository](https://github.com/woowacourse-teams/2024-devel-up) | 
 | GGUMTL | 2023.08 - 2023.10 (6 weeks) | [Repository](https://github.com/chosim-dvlpr/GGUMTL) | 
 | TING | 2023.07 - 2023.08 (6 weeks) | [Repository](https://github.com/chosim-dvlpr/TING) | 
