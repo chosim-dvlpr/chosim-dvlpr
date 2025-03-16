@@ -12,7 +12,6 @@
 | Company | Position | Period |
 |--|--|--|
 | [Karrot](https://www.daangn.com/kr/) | Intern | 2025.02 - Present |
-| STgen Bio | Quality Control Analyst | 2021.09 - 2022.09 |
 
 <br/>
 
