@@ -16,13 +16,22 @@
 
 <br/>
 
-## Work Experience
+## Work Experiences
 
 | Company | Position | Period |
 |:--|:--|:--|
 | **Place&** | Frontend Developer | 2025.11 - Present |
 | **Karrot** | Frontend Developer Intern | 2025.02 - 2025.05 (3m) |
 | **STgen Bio** | Quality Control Analysis | 2021.09 - 2022.09 (1y) |
+
+<br/>
+
+
+## Open Source Contributions
+
+| Repository | Role | Description |
+|:--|:--|:--|
+| **Turborepo** (by Vercel) | Contributor | [PR #11162](https://github.com/vercel/turborepo/pull/11162) - Fixed a build error in the `with-vite-react` example. |
 
 <br/>
 
@@ -34,11 +43,13 @@
 | **SAMSUNG** | SSAFY (9th) | 2023.01 - 2023.12 (1y) | Completed a curriculum on algorithm problem solving and Web development fundamentals |
 <br/>
 
+
 ## Educations
 
 | Education | Major | Period |
 |--|--|--|
 | KyungHee University | Genetic Engineering | 2016.03 - 2021.02 |
+
 
 <br/>
 
