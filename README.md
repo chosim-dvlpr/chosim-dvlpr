@@ -22,7 +22,6 @@
 |:--|:--|:--|
 | **Place&** | Frontend Developer | 2025.11 - Present |
 | **Karrot** | Frontend Developer Intern | 2025.02 - 2025.05 (3m) |
-| **STgen Bio** | Quality Control Analysis | 2021.09 - 2022.09 (1y) |
 
 <br/>
 
