@@ -10,6 +10,7 @@ _Hi! I'm Minji, a Frontend Developer who solves inconveniences and creates busin
 <br/>
 
 #### Work Experiences
+- _**Place&**: Frontend Developer (2025.11 - Present)_
 - _**Karrot**: Frontend Developer Intern (2025.02 - 2025.05)_
 
 <br/>
